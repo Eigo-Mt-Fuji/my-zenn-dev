@@ -1,5 +1,5 @@
 ---
-title: Hello Zenn World
+title: 自己紹介(Hello Zenn World)
 emoji: "💨"
 type: "tech" 
 topics: ["ポエム"]
