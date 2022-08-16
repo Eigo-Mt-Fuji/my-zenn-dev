@@ -3,7 +3,7 @@ title: "[Rust]今日の学び$TODAY"
 emoji: "$EMOJI"
 type: "tech" 
 topics: ["Rust"]
-published: true
+published: false
 ---
 
 Hello Zenn World.
