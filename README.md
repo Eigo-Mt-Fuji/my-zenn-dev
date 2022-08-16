@@ -34,7 +34,36 @@ $ git push origin main
 
 ## Note: Article Structure
 
+- titleは [Rust]
 - topicsがタグ。適当に調整していく。typeはtech固定する。
-- 段落構成
+- 段落構成はしばらくこれで固定する。
 
 ```
+
+適当なつぶやきを入れる。
+
+## はじめに
+
+この記事の結論を書く。
+
+## 参考情報
+
+参考情報を書く。
+
+## 本題
+
+やったことを書く。
+
+## おわりに
+
+説明をする。
+思ったことを書く。
+```
+
+- Topicを限定する
+  - Rust
+  - Effective Rust
+  - Rust Ecosystem
+  - Typescript React
+  - Design Pattern
+  - Data Structure / Algorithm
