@@ -1,0 +1,23 @@
+{
+  "name": "my-zenn-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eigo-Mt-Fuji/my-zenn-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eigo-Mt-Fuji/my-zenn-dev/issues"
+  },
+  "homepage": "https://github.com/Eigo-Mt-Fuji/my-zenn-dev#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.117"
+  }
+}
