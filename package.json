@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "new:article:rust":"./my-article-gen.sh .templates/rust-article.md rust",
+    "new:article:typescript":"./my-article-gen.sh .templates/typescript-article.md typescript"
   },
   "repository": {
     "type": "git",
