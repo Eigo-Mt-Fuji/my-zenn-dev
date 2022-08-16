@@ -1,6 +1,6 @@
 ---
 title: "[Typescript]今日の学び$TODAY"
-emoji: "💨"
+emoji: "$EMOJI"
 type: "tech" 
 topics: ["Typescript"]
 published: true

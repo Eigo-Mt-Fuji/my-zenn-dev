@@ -1,6 +1,6 @@
 ---
 title: "[Rust]今日の学び$TODAY"
-emoji: "💨"
+emoji: "$EMOJI"
 type: "tech" 
 topics: ["Rust"]
 published: true
