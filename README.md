@@ -55,3 +55,4 @@ $ npx zenn init
 ```
 
 * [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+
