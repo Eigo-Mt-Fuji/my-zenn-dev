@@ -42,7 +42,7 @@ $ git commit -m "publish"
 $ git push origin main
 ```
 
-## Refrerence
+## Reference
 
 * [Install zenn-cli](https://zenn.dev/zenn/articles/install-zenn-cli)
 
