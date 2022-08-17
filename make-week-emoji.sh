@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SHORT_DAY_OF_WEEK=$(date +'%a')
+SHORT_DAY_OF_WEEK=$(LC_ALL=C LC_CTYPE=C date +'%a')
 
 if [ $SHORT_DAY_OF_WEEK = "Mon" ]; then
     echo "🌙"
