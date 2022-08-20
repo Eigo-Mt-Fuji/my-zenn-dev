@@ -11,7 +11,7 @@
   - [Rust](./.templates/rust-article.md)
   - [Typescript](./.templates/typescript-article.md)
   - Design Pattern
-  - Data Structure / Algorithm
+  - [Data Structure / Algorithm](./.templates/algorithm-meetup.md)
 
 ## How to Publish
 
