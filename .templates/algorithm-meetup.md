@@ -1,7 +1,8 @@
 ---
 title: "[algorithm_meetup]$TODAY-アルゴリズムとデータ構造 ミートアップ"
 emoji: "$EMOJI"
-type: tech
+type: "tech" 
+topics: ["Rust"]
 published: false
 ---
 
